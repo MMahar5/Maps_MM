@@ -38,6 +38,7 @@ The code shown below is a method to check if the location permissions are enable
 
 
 I added a text view at the bottom to display the latitude and longitude of our location. However, this was just added to show that it is working. I don't have other features enabled yet, like adding a marker to the map so you can easily change the location.
+
 ![latlong](https://github.com/MMahar5/Maps_MM/assets/97249776/2fe5f5f3-b249-4a1d-8a45-af4541be74bc)
 
 
